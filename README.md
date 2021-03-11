@@ -1,5 +1,4 @@
 Copied from: [lancejpollard](https://github.com/lancejpollard) <br>
-Revisioned version by: [@Blob-Development](https://github.com/Blob-Development)
 
 ## Basic HTML Meta Tags
 
